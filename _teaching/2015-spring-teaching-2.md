@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant, graduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Handelshögskolan i Stockholm"
-date: 2021 
+date: 2021-04-01 
 location: #"City, Country"
 ---
 
